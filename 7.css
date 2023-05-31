@@ -1,0 +1,34 @@
+/** ID SELECTORS */
+
+#id1 {
+  background: chocolate;
+  color: white;
+  padding: 16px;
+  margin: 0;
+}
+
+/* CLASS SELECTOR :: SPL CHAR DOT */
+.myheadline {
+  background: chocolate;
+  color: white;
+  padding: 16px;
+  margin: 0;
+}
+
+/** CLASS SELECTOR  */
+/** IT CAN SELECT 0, 1, more than 1, ALL  */
+.mypara {
+  background: lightsalmon;
+  color: black;
+  margin-top: 4px;
+  padding: 16px;
+  font-size: 21px;
+}
+
+.mypara1 {
+  background: chocolate;
+  color: black;
+  margin-top: 4px;
+  padding: 16px;
+  font-size: 21px;
+}

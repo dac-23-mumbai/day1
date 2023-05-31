@@ -1,0 +1,16 @@
+/** ELEMENT SELECTORS */
+h1 {
+  background: chocolate;
+  color: white;
+  padding: 16px;
+  margin: 0;
+}
+
+/** SELECT ALL THE P ELEMNT */
+p {
+  background: lightsalmon;
+  color: black;
+  margin-top: 4px;
+  padding: 16px;
+  font-size: 21px;
+}
